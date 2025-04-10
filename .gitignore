@@ -1,1 +1,4 @@
 .qodo
+**/cfg/
+config.bat
+node_modules
